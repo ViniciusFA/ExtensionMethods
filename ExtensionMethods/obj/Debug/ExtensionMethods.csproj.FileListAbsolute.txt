@@ -1,0 +1,7 @@
+C:\Workspace\UdemyC#\ExtensionsMethods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Workspace\UdemyC#\ExtensionsMethods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Workspace\UdemyC#\ExtensionsMethods\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Workspace\UdemyC#\ExtensionsMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Workspace\UdemyC#\ExtensionsMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Workspace\UdemyC#\ExtensionsMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Workspace\UdemyC#\ExtensionsMethods\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
